@@ -27,7 +27,7 @@
 * [Postman - testowanie REST API](https://www.udemy.com/certificate/UC-df8449ed-1a4e-4fd6-bf3a-23c0ce01567c/)
 
 ## :bangbang: Projects
-* [AutomationExercise](https://github.com/RobertGitH/AutomationExercise) - automated tests using Selenium with Java for an E-commerce website called Automation Exercise
+* [AutomationExercise](https://github.com/RobertGitH/AutomationExercise) - automated tests using Selenium with Java for an E-commerce website
 * [JiraTestPostman](https://github.com/RobertGitH/JiraTestPostman) - automated Postman tests
 * [Website](https://github.com/RobertGitH/Website) - simple website using HTML and CSS
 
