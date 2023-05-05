@@ -28,7 +28,7 @@
 
 ## :bangbang: Projects
 * [AutomationExercise](https://github.com/RobertGitH/AutomationExercise) - automated tests using Selenium with Java for an E-commerce website
-* [JiraTestPostman](https://github.com/RobertGitH/JiraTestPostman) - automated Postman tests
+* [AutomationExerciseAPI](https://github.com/RobertGitH/AutomationExerciseAPI) - automated REST API tests in Postman for an E-commerce website
 * [Website](https://github.com/RobertGitH/Website) - simple website using HTML and CSS
 
 ## :book: Books
