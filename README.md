@@ -45,3 +45,7 @@
 * [testerka.pl](https://testerka.pl)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania)
 * [thetesteye.com](http://thetesteye.com/blog)
+
+## :globe_with_meridians: Websites
+* [W3Schools](https://www.w3schools.com)
+* [Mr Buggy](http://mrbuggy.pl)
