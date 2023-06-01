@@ -21,6 +21,7 @@
 * [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - exploratory testing assistant
 * [Bird Eats Bug: Technical Screen Recording](https://chrome.google.com/webstore/detail/bird-eats-bug-technical-s/mdplmiioglkpgkdblijgilgebpppgblm) - record screen and technical logs on your product
 * [PageSpeed Insights](https://pagespeed.web.dev) - Core Web Vitals assessment
+* [Trello](https://trello.com) - visual project management tool
 
 ## :desktop_computer: Courses
 * [Selenium Java od podstaw](https://www.udemy.com/certificate/UC-3e50fa00-0b76-4a2f-946b-74e2d9e80e33/)
@@ -47,5 +48,6 @@
 * [thetesteye.com](http://thetesteye.com/blog)
 
 ## :globe_with_meridians: Websites
+* [HackerRank (profile)](https://www.hackerrank.com/robert_rozwadow1?hr_r=1)
 * [W3Schools](https://www.w3schools.com)
 * [Mr Buggy](http://mrbuggy.pl)
