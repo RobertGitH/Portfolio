@@ -24,6 +24,7 @@
 * [Trello](https://trello.com) - visual project management tool
 
 ## :desktop_computer: Courses
+* CS50's Introduction to Computer Science
 * [Selenium Java od podstaw](https://www.udemy.com/certificate/UC-3e50fa00-0b76-4a2f-946b-74e2d9e80e33/)
 * [Postman - testowanie REST API](https://www.udemy.com/certificate/UC-df8449ed-1a4e-4fd6-bf3a-23c0ce01567c/)
 
@@ -36,6 +37,7 @@
 * R. Smilgin - Zawód tester
 * A. Roman - Testowanie i jakość oprogramowania
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
+* A. Hunt, D. Thomas - Pragmatyczny programista. Od czeladnika do mistrza
 * B. Błaszczyk - English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko [in progress...]
 
 ## :computer: Blogs
@@ -46,9 +48,15 @@
 * [testerka.pl](https://testerka.pl)
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania)
 * [thetesteye.com](http://thetesteye.com/blog)
+* [jaknauczycsieprogramowania.pl](https://www.jaknauczycsieprogramowania.pl)
+* [How Web Works](https://github.com/vasanthk/how-web-works)
+* [OSSU - Computer Science](https://github.com/ossu/computer-science)
 
 ## :globe_with_meridians: Websites
 * [HackerRank (profile)](https://www.hackerrank.com/robert_rozwadow1?hr_r=1)
 * [uTest](https://www.utest.com)
 * [W3Schools](https://www.w3schools.com)
 * [Mr Buggy](http://mrbuggy.pl)
+* [Baeldung](https://www.baeldung.com)
+* [Codecademy](https://www.codecademy.com)
+* [LeetCode](https://leetcode.com)
