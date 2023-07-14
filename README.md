@@ -27,7 +27,7 @@
 * [PageSpeed Insights](https://pagespeed.web.dev) - Core Web Vitals assessment
 * [Trello](https://trello.com) - visual project management tool
 
-## :desktop_computer: Courses
+## :desktop_computer: Online Courses
 * [HarvardX - CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 * [Selenium Java od podstaw](https://www.udemy.com/certificate/UC-3e50fa00-0b76-4a2f-946b-74e2d9e80e33/)
 * [Postman - testowanie REST API](https://www.udemy.com/certificate/UC-df8449ed-1a4e-4fd6-bf3a-23c0ce01567c/)
