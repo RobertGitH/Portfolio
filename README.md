@@ -3,6 +3,7 @@
 * Since my youth, I've been captivated by the concept of computers and their functioning. Eager to develop my skills in the topics of testing and programming. Seeking to become an automation tester. Below is a list of all the sources I used and gained knowledge from, as well as projects created from scratch by me, during the process of learning. I'm constantly improving my professional competence and language skills.
 
 ## :bangbang: Projects
+* [MrBuggy6](https://github.com/RobertGitH/MrBuggy6) - manual application testing
 * [AutomationExercise](https://github.com/RobertGitH/AutomationExercise) - automated tests using Selenium with Java for an E-commerce website
 * [AutomationExerciseAPI](https://github.com/RobertGitH/AutomationExerciseAPI) - automated REST API tests in Postman for an E-commerce website
 * [Website](https://github.com/RobertGitH/Website) - simple website using HTML and CSS
@@ -14,6 +15,7 @@
 * GIT
 * Scrum, Kanban
 * Software testing
+* Writing test scenarios and test cases
 * Reporting bugs
 * Test automation
 
@@ -22,6 +24,7 @@
 * [Selenium WebDriver (Java)](https://www.selenium.dev/downloads/) - suite of tools for automating web browsers
 * [IntelliJ IDEA](https://www.jetbrains.com/idea) - an integrated development environment
 * [PicPick](https://picpick.app) - functional screen capture tool and image editor
+* [OBS Studio](https://obsproject.com) - free and open source software for video recording and live streaming
 * [Jira](https://www.atlassian.com) - issue tracking and project management tool
 * [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - exploratory testing assistant
 * [PageSpeed Insights](https://pagespeed.web.dev) - Core Web Vitals assessment
