@@ -1,6 +1,6 @@
 # :briefcase: Portfolio - Robert Rozwadowski
 ## :eye: About me
-Since my youth, I've been captivated by the concept of computers and their functioning. Eager to develop my skills in the topics of testing and programming. Seeking to become an automation tester. Below is a list of all the sources I used and gained knowledge from, as well as projects created from scratch by me, during the process of learning. I'm constantly improving my professional competence and language skills.
+Since my youth, I've been captivated by the concept of computers and their functioning. Eager to develop my skills in the topics of testing and programming. I'm currently participating in various projects on the uTest platform. Seeking to become an automation tester. Below is a list of all the sources I used and gained knowledge from, as well as projects created from scratch by me, during the process of learning. I'm constantly improving my professional competence and language skills.
 
 ## :bangbang: Projects
 * [MrBuggy6](https://github.com/RobertGitH/MrBuggy6) - manual application testing
@@ -59,6 +59,3 @@ Since my youth, I've been captivated by the concept of computers and their funct
 * [uTest](https://www.utest.com)
 * [W3Schools](https://www.w3schools.com)
 * [Mr Buggy](http://mrbuggy.pl)
-* [Baeldung](https://www.baeldung.com)
-* [Codecademy](https://www.codecademy.com)
-* [LeetCode](https://leetcode.com)
