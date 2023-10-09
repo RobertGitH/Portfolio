@@ -9,11 +9,10 @@ Since my youth, I've been captivated by the concept of computers and their funct
 * [Website](https://github.com/RobertGitH/Website) - simple website using HTML and CSS
 
 ## :gear: Technical skills
-* SQL
-* Java, JavaScript
+* [SQL (Basic)](https://www.hackerrank.com/certificates/00e032c56275)
+* Java
 * DevTools
 * GIT
-* Scrum, Kanban
 * Software testing
 * Writing test scenarios and test cases
 * Reporting bugs
