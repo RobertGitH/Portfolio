@@ -28,6 +28,7 @@ Since my youth, I've been captivated by the concept of computers and their funct
 * [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - exploratory testing assistant
 * [PageSpeed Insights](https://pagespeed.web.dev) - Core Web Vitals assessment
 * [Trello](https://trello.com) - visual project management tool
+* [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&pcampaignid=web_share) - screen recorder for Android devices
 
 ## :desktop_computer: Online Courses
 * [HarvardX - CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
