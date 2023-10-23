@@ -4,7 +4,7 @@ I'm a college graduate in electrical engineering, where for my engineering thesi
 
 ## :bangbang: Projects
 * [MrBuggy6](https://github.com/RobertGitH/MrBuggy6) - manual application testing
-* [AutomationExercise](https://github.com/RobertGitH/AutomationExercise) - automated tests for an E-commerce website by using: IntelliJ, Selenium with Java, Maven, TestNG, Allure Report
+* [AutomationExercise](https://github.com/RobertGitH/AutomationExercise) - automated tests for an E-commerce website by using: IntelliJ, Selenium (Java), Maven, TestNG, Allure Report
 * [AutomationExerciseAPI](https://github.com/RobertGitH/AutomationExerciseAPI) - automated REST API tests in Postman for an E-commerce website
 * [Website](https://github.com/RobertGitH/Website) - simple website using HTML and CSS
 
