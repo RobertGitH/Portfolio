@@ -19,8 +19,8 @@ I'm a college graduate in electrical engineering, where for my engineering thesi
 * Test automation
 
 ## :scroll: Certificates
-* [HackerRank - SQL (Basic)](https://www.hackerrank.com/certificates/00e032c56275)
-* [TestDome - SQL](https://www.testdome.com/certificates/06ce66b488154bd5a08119b8fc88dac0)
+* [SQL (Basic) - HackerRank](https://www.hackerrank.com/certificates/00e032c56275)
+* [SQL - TestDome](https://www.testdome.com/certificates/06ce66b488154bd5a08119b8fc88dac0)
 
 ## :hammer_and_wrench: Tools
 * [Postman](https://www.postman.com) - testing tool for REST API
