@@ -35,9 +35,11 @@ I'm a college graduate in electrical engineering, where for my engineering thesi
 * [AZ Screen Recorder](https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free&pcampaignid=web_share) - screen recorder for Android devices
 
 ## :desktop_computer: Online Courses
-* [HarvardX - CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 * [Selenium Java od podstaw](https://www.udemy.com/certificate/UC-3e50fa00-0b76-4a2f-946b-74e2d9e80e33/)
 * [Postman - testowanie REST API](https://www.udemy.com/certificate/UC-df8449ed-1a4e-4fd6-bf3a-23c0ce01567c/)
+* [HarvardX - CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+* [Software Testing Tools Every QA Should Know](https://www.udemy.com/course/testingtools/)
+* [Intro to the Manual Software Testing Interview (Q&A for QA)](https://www.udemy.com/course/intro-to-the-manual-software-testing-interview-qa-for-qa/)
 
 ## :book: Books
 * R. Smilgin - Zawód tester
